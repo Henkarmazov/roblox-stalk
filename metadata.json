@@ -1,0 +1,6 @@
+{
+  "name": "Roblox Stalk",
+  "description": "Stalking profil Roblox berdasarkan username dengan detail status online, avatar, statistik, dan lencana terverifikasi secara real-time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
